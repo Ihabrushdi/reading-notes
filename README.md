@@ -8,3 +8,4 @@ taple of the content
 2. read02 [read02a](https://ihabrushdi.github.io/reading-notes/read02a)
 3. read02a2 [read02a2] (https://ihabrushdi.github.io/reading-notes/read02a2)
 4. read02b [read02b](https://ihabrushdi.github.io/reading-notes/read02b)
+5. read03a [read03a] (https://ihabrushdi.github.io/reading-notes/read03a)
