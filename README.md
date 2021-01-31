@@ -10,3 +10,5 @@ taple of the content
 4. read02b [read02b](https://ihabrushdi.github.io/reading-notes/read02b)
 5. read03a [read03a](https://ihabrushdi.github.io/reading-notes/read03a)
 6. read04a [read04a](https://ihabrushdi.github.io/reading-notes/read04a)
+7. read05 [read05](https://ihabrushdi.github.io/reading-notes/read05)
+8. read06 [read06](https://ihabrushdi.github.io/reading-notes/read06)
